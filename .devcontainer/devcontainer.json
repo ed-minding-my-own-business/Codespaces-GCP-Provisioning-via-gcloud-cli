@@ -3,7 +3,7 @@
 {
 	"name": "Google Cloud Platform tools",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
 	"features": {
 		// The next line opts to include the latest GitHub cli version for the container
 		"ghcr.io/devcontainers/features/github-cli:1": {
